@@ -1,2 +1,2 @@
 # my-web
-personal website
+web projects
