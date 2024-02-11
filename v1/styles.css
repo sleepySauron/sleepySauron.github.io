@@ -10,7 +10,7 @@
 #navbar {
     height: auto;
     width: 100%;
-    overflow: hidden;
+    overflow: auto;
     background-color: #202020;
     position: fixed;
     display: flex;
